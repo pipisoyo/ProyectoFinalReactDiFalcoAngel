@@ -21,6 +21,11 @@ export const CheckoutForms = ({ onConfirm }) => {
             return;
         }
 
+        if (!name || !phone || !confirmPhone || !email || !confirmEmail) {
+            alert('Por favor completa todos los campos.');
+            return;
+        }
+
         const userData = {
             name, phone, email
         }

@@ -13,9 +13,6 @@ import { Checkout } from './componets/Checkout/Checkout';
 export const App = () => {
   return (
     <>
-    <h2>Polirrubros Pi-Va-So</h2>
-
-   
     <BrowserRouter>
     <CartProvider>
     <NavLink to="/">
