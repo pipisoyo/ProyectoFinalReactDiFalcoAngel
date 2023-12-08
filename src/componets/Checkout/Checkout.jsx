@@ -62,7 +62,6 @@ export const Checkout = () => {
 
         const ordersRef = collection(db, 'orders');
 
-        // Reemplazamos ordersRef.add por addDoc
         const newOrderRef = await addDoc(ordersRef, objOrder);
 
         setOrderId(newOrderRef.id);

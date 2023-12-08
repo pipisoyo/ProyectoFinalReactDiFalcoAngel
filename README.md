@@ -1,5 +1,5 @@
 La idea de mi proyecto es generar una pagina con los productos q vendo en mi negocio...
 Se que falta mucho mas, que se puede hacer mas, pero ya tengo las bases para comenzar a plasmar lo que quiero hacer, despues de esto sigo con backend...
 
-en la ultimas clases me di cuenta q no va a ase tan complicado itegrar mi DB a l proyecto , pero aun me falta.
+en la ultimas clases me di cuenta q no va a ase tan complicado itegrar mi DB(la real de mi negocio) al proyecto , pero aun me falta.
 
